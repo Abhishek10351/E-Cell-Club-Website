@@ -346,10 +346,9 @@ body {
         z-index: 1;
         animation: box-shadow 500ms 0ms;
     }
-    .card-circle:nth-child(1){
+    .card-circle:nth-child(1) {
         margin: 0px auto;
         z-index: 2;
-    
     }
 }
 @media only screen and (min-width: 991px) and (max-width: 1200px) {
@@ -512,10 +511,10 @@ body {
         width: 100%;
     }
     .membership-info #info {
-        width:auto;
+        width: auto;
         margin-left: 132px;
         height: auto;
-        margin-right:30px
+        margin-right: 30px;
     }
     .membership-info #think {
         margin-left: -72px;
@@ -600,27 +599,25 @@ h3 #join {
     transform: translateY(0);
 }
 
-
-@media screen and (max-width:768px){
-    .join-us{
+@media screen and (max-width: 768px) {
+    .join-us {
         width: 100%;
         margin: 10px;
         height: auto;
     }
-    .join-us h3{
+    .join-us h3 {
         width: 100%;
         font-size: 25px;
         font-weight: 900;
     }
 }
 
-@media screen and (max-width:479px){
-    .join-us{
+@media screen and (max-width: 479px) {
+    .join-us {
         padding: 10px 10px;
-        margin:20px 0px;
+        margin: 20px 0px;
     }
-    .join-us p{
+    .join-us p {
         text-align: justify;
     }
-    
 }
