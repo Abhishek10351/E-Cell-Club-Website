@@ -13,18 +13,15 @@ body {
     background-repeat: no-repeat;
     max-height: max-content;
     overflow-x: hidden;
-    /* border: 2px solid yellow; */
 }
 
 /* faculty teams section */
 
 .team h2 {
     color: rgb(226, 224, 219);
-    /* border: 2px solid salmon; */
     margin: auto;
     width: 300px;
     height: 50px;
-    /* d */
     font-family: "Raleway", sans-serif;
     font-size: 32px;
     text-transform: uppercase;
@@ -34,7 +31,6 @@ body {
 }
 .team #team {
     font-size: 35px;
-
     /* text-transform: uppercase; */
     color: #dd3005;
     font-weight: 700;
@@ -54,7 +50,6 @@ body {
     max-width: 990px;
     margin: auto;
     margin-top: 25px;
-    /* border: 2px solid yellow; */
     border-radius: 40px;
     font-family: "Raleway", sans-serif;
     /* background-color: #080018; */
@@ -172,19 +167,11 @@ img {
     border: 3px solid #d33c00;
 }
 
-/* .fa-facebook {
-    color: #3B5998;
-  }
-  .fa-twitter {
-    color: #55ACEE;
-  } */
 
 .fa-envelope {
     color: #4ac6ff;
 }
-.fa-linkedin {
-    color: #007bb5;
-}
+
 .credit a {
     text-decoration: none;
     color: #fff;
@@ -212,7 +199,6 @@ img {
     max-width: 990px;
     margin: auto;
     margin-top: 25px;
-    /* border: 2px solid yellow; */
     border-radius: 40px;
     font-family: "Raleway", sans-serif;
     /* background-color: #080018; */
@@ -239,8 +225,6 @@ img {
     display: flex;
     flex-wrap: wrap;
     border: 1px solid transparent;
-    /* border-color: crimson; */
-
     /* justify-content: center; */
 }
 img {
